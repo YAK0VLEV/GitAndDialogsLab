@@ -81,8 +81,8 @@
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="12dp"
-        android:text="MICHAEL WAS HERE!!!"
+        android:layout_marginTop="8dp"
+        android:text="MQ was here on HIS branch this time!!!"
         app:layout_constraintBottom_toTopOf="@+id/textView5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
